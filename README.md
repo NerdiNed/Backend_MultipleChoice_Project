@@ -1,6 +1,6 @@
 # back-end-g3
 ​
-## This project is about to connect the Frontend with the Backend. It's about to use, store and recall Data from the Database.
+## This project is about connecting the Frontend with the Backend. It's about to use, store and recall Data from the Database.
 ​
 ​
 - We will work with Node.js / Express and with MongoDb as the Database to accomplish this task. The Design is secondary in this project.
